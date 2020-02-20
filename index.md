@@ -16,7 +16,7 @@
     </style>
   </head>
   <body>
-    <div id="score">Score</div>
+    <span> Score: <div id="score"></div> Controls: Q/W to spin</span>
     <canvas id="tetris" width="240" height="400"></canvas>
     <script src="tetris.js"></script>
   </body>
