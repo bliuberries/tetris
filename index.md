@@ -16,7 +16,7 @@
     </style>
   </head>
   <body>
-    <div id="score"></div>
+    <div id="score">Score</div>
     <canvas id="tetris" width="240" height="400"></canvas>
     <script src="tetris.js"></script>
   </body>
